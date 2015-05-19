@@ -1,0 +1,101 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "id":"#",
+  "properties": {
+    "AltText": {"type": ["null","string"]},
+    "Width": {
+      "type": "integer",
+	  "default":0
+    },
+    "Height": {
+      "type": "integer",
+	  "default":0
+    },
+    "GraphicWarning": {"type": "boolean"},
+    "ImageHint": {"type": ["null","string"]},
+    "AimsImageName": {"type": "string"},
+    "AimsImagePath": {"type": "string"},
+    "ExternalId": {"type": "string"},
+    "ExternalSource": {"type": "string"},
+    "Url": {"type": "string"},
+    "Type": {"type": "string"},
+    "Title": {"type": "string"},
+    "Byline": {"type": "string"},
+    "Summary": {"type": "string"},
+    "Brand": {"type": "string"},
+    "Source": {
+      "type": "object",
+      "properties": {
+        "SourceName": {"type": "string"},
+        "Logo": {"type": ["null", "string"]},
+        "Url": {"type": ["null", "string"]},
+        "Copyright": {"type": ["null", "string"]},
+        "Picture": {
+			"oneOf": [
+    			{ "$ref": "#" },
+				{
+					"type":"null"
+				}
+			]
+		}
+      }
+    },
+    "MainArt": {
+		"oneOf": [
+   			{ "$ref": "#" },
+			{
+				"type":"null"
+			}
+		]
+	},
+    "PublishedAtUtc": {"type": "string"},
+    "ExpireAtUtc": {"type": "string"},
+    "IngestedAtUtc": {"type": "string"},
+    "ModifiedAtUtc": {"type": "string"},
+    "PublishedAtUtcEpoch": {"type": "integer"},
+    "Tags": {
+      "id": "/Tags",
+      "type": ["null", "array"],
+      "items": {
+		"type":"object",
+		"properties":{
+			"Id": {"type":"string"},
+      		"Schema": {"type":"string"},
+      		"Label": {"type":["null","string"]}
+		}
+	  }
+    },
+    "BylineIds": {
+      "type": ["null", "array"],
+	  "items":{
+		"type":"string"
+	  }
+    }
+  },
+  "required": [
+    "AltText",
+    "Width",
+    "Height",
+    "GraphicWarning",
+    "ImageHint",
+    "AimsImageName",
+    "AimsImagePath",
+    "ExternalId",
+    "ExternalSource",
+    "Url",
+    "Type",
+    "Title",
+    "Byline",
+    "Summary",
+    "Brand",
+    "Source",
+    "MainArt",
+    "PublishedAtUtc",
+    "ExpireAtUtc",
+    "IngestedAtUtc",
+    "ModifiedAtUtc",
+    "Tags",
+    "BylineIds"
+  ]
+}
