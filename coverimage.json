@@ -5,7 +5,7 @@
 "byline":  {"type": "string"},
 "summary":  {"type": "string"},
 "brand":  {"type": "string"}
-"source": {
+"source" : {
 "sourceName":  {"type": "string"},
 "logo": null,
 "url": null,
