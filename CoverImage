@@ -1,8 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
 
-title: "Protests in Baltimore After Funeral Held For Baltimore Man Who Died While In Police Custody",
-byline: "Chip Somodevilla",
+"title": "Strings",
+"byline": "Chip Somodevilla",
 summary: "Baltimore Police form a parimeter around a CVS pharmacy that was looted and burned near the corner of Pennsylvania and North avenues during violent protests following the funeral of Freddie Gray April 27, 2015 in Baltimore, Maryland. Gray, 25, who was arrested for possessing a switch blade knife April 12 outside the Gilmor Homes housing project on Baltimore's west side. According to his attorney, Gray died a week later in the hospital from a severe spinal cord injury he received while in police custody. (Photo by Chip Somodevilla/Getty Images)",
 brand: "NBC News",
 source: {
