@@ -5,20 +5,5 @@
 "byline":  {"type": "string"},
 "summary":  {"type": "string"},
 "brand":  {"type": "string"}
-"source" : {
-"sourceName":  {"type": "string"},
-"logo": null,
-"url": null,
-"copyright":  {"type": "string"},
-"picture": null
-},
-"mainArt": null,
-"publishedAtUtc": {"type": "string"},
-"expireAtUtc": {"type": "string"},
-"ingestedAtUtc": {"type": "string"},
-"modifiedAtUtc": {"type": "string"},
-"publishedAtUtcEpoch": {"type": "integer"},
-"tags": null,
-"bylineIds": null
 
   }
