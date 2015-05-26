@@ -13,13 +13,12 @@ copyright:  {"type": "string"},
 picture: null
 },
 mainArt: null,
-publishedAtUtc: "2015-04-28T11:00:08+00:00",
-expireAtUtc: "2115-04-28T11:01:04.5841842+00:00",
-ingestedAtUtc: "2015-04-28T11:01:04.5841842+00:00",
-modifiedAtUtc: "2015-04-28T11:00:08+00:00",
-publishedAtUtcEpoch: 0,
+publishedAtUtc: {"type": "string"},
+expireAtUtc: {"type": "string"},
+ingestedAtUtc: {"type": "string"},
+modifiedAtUtc: {"type": "string"},
+publishedAtUtcEpoch: {"type": "integer"},
 tags: null,
 bylineIds: null
-  
-  
+
   }
