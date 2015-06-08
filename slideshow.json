@@ -2,48 +2,48 @@
   "type": "slideshow",
   "action": "string",
   "entry": {
-    "ads_enabled": 1,
-    "comments_enabled": 1,
-    "cover_headline": "This is my slideshow headline",
-    "cover_image_is_graphic": 1,
-    "first_publication_date": "1431531240",
-    "main_art_is_graphic": 0,
-    "publication_date": 1431449251,
-    "search_enabled": 1,
-    "seo_headline": "This is my slideshow headline",
-    "social_media_headline": "This is my slideshow headline",
-    "seo_slug": "This is my slideshow headline",
+    "ads_enabled": "integer",
+    "comments_enabled": "integer",
+    "cover_headline": "string",
+    "cover_image_is_graphic": "integer",
+    "first_publication_date": "string",
+    "main_art_is_graphic": "integer",
+    "publication_date": "string",
+    "search_enabled": "integer",
+    "seo_headline": "string",
+    "social_media_headline": "string",
+    "seo_slug": "string",
     "additional_article_labels": [
-      "64"
+      "array"
     ],
     "additional_shows": [
-      "184"
+      "array"
     ],
     "article_label": [
-      "60"
+      "array"
     ],
     "byline_id": [
-      "2647"
+      "array"
     ],
     "linked_anchors": [
-      "13"
+      "array"
     ],
     "linked_sections": [
-      "108",
-      "107"
+      "array",
+      "array"
     ],
     "linked_sub_topics": [
-      "171"
+      "array"
     ],
     "linked_topics": [
-      "125",
-      "144"
+      "array",
+      "array"
     ],
     "show": [
-      "182"
+      "array"
     ],
     "source": [
-      "1"
+      "array"
     ],
     "next_slideshow": [
       {
@@ -65,57 +65,57 @@
         "value": 12
       }
     ],
-    "slideshow_caption": "<p>This is my caption and we'll see how I like it.&nbsp;<img src=\"96866\" data-field-file-image-alt-text=\"My+Alt+Text\" data-field-file-image-title-text=\"My+title+text\" data-field-caption=\"My+captiopn\" data-field-byline=\"My+byline\" data-field-source=\"My+source\" data-field-copyright=\"My+copyright\" data-field-file-created=\"1430931648\" \/><\/p>",
-    "summary": "This is my summary",
+    "slideshow_caption": "string",
+    "summary": "string",
     "cover_image": {
       "fid": "96866",
-      "url": "moms_day_brunch.jpg",
+      "url": "string",
       "width": "455",
       "height": "256",
-      "title": null,
-      "alt_text": "Alt Text Override",
-      "caption": null,
-      "crop_rect": null,
-      "focus_rect": null,
-      "byline": null,
-      "copyright": null,
-      "source": "Source Override"
+      "title": "string",
+      "alt_text": "string",
+      "caption": "string",
+      "crop_rect": "string",
+      "focus_rect": "string",
+      "byline": "string",
+      "copyright": "string",
+      "source": "string"
     },
     "main_image": {
       "fid": "96858",
-      "url": "chocolate_french_toast.jpg",
+      "url": "string",
       "width": "455",
       "height": "256",
-      "title": "Title Override",
-      "alt_text": null,
-      "caption": "Caption override",
-      "crop_rect": null,
-      "focus_rect": null,
-      "byline": null,
-      "copyright": null,
-      "source": "Source Override"
+      "title": string",
+      "alt_text": "string",
+      "caption": "string",
+      "crop_rect": "string",
+      "focus_rect": "string",
+      "byline": "string",
+      "copyright": "string",
+      "source": "string"
     },
     "slideshow_internal": [
       {
         "image": {
           "fid": "96857",
-          "url": "matcha_green.jpg",
+          "url": "string",
           "width": "455",
           "height": "256",
-          "title": null,
-          "alt_text": null,
-          "caption": null,
-          "crop_rect": null,
-          "focus_rect": null,
-          "byline": null,
-          "copyright": null,
-          "source": null
+          "title": "string",
+          "alt_text": "string",
+          "caption": "string",
+          "crop_rect": "string",
+          "focus_rect": "string",
+          "byline": "string",
+          "copyright": "string",
+          "source": "string"
         },
-        "title": "This is my slide title",
-        "caption": "<p>This is the caption for my image. Can I embed media in this? The UI appears to allow me.<\/p>",
+        "title": "string",
+        "caption": "string"",
         "is_graphic": "1",
-        "source": null,
-        "credits": "Credits Override",
+        "source": "string",
+        "credits": "string",
         "related": [
           
         ]
@@ -133,7 +133,7 @@
     "sub_topic": [
       
     ],
-    "title": "This is my slideshow headline",
+    "title": "string",
     "nid": "4025",
     "type": "slideshow",
     "revision_timestamp": 1431449253,
