@@ -127,7 +127,7 @@
 "source_Type":"string",
 "standout_Article":"boolean",
 "id":"string",
-"externalId":""string"",
+"externalId":"string",
 "externalSource":"string",
 "url":"string",
 "type":"Entry",
