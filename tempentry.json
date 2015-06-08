@@ -5,8 +5,8 @@
 "entries":
 [{"content":"string",
 "mediaList":[{"altText":"string",
-"width":1920,
-"height":1080,
+"width":"string",
+"height":"string",
 "graphicWarning":false,
 "imageHint":null,
 "aimsImageName":"string",
@@ -35,8 +35,8 @@
 "tags":null,
 "bylineIds":null},
 {"altText":"string",
-"width":1920,
-"height":1080,
+"width":"string",
+"height":"string",
 "graphicWarning":false,
 "imageHint":null,
 "aimsImageName":"string",
@@ -77,9 +77,8 @@
 "articleType":1,
 "coverArt":{
   "altText":"string",
-
-"width":1920,
-"height":1080,
+"width":"string",
+"height":"string",
 "graphicWarning":false,
 "imageHint":null,
 "aimsImageName":"string",
