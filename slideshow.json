@@ -86,7 +86,7 @@
       "url": "string",
       "width": "integer",
       "height": "integer",
-      "title": string",
+      "title": "string",
       "alt_text": "string",
       "caption": "string",
       "crop_rect": "string",
