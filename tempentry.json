@@ -82,7 +82,7 @@
 "graphicWarning":false,
 "imageHint":"string",
 "aimsImageName":"string",
-"aimsImagePath":string",
+"aimsImagePath":"string",
 "id":null,
 "externalId":"619616",
 "externalSource":8,
