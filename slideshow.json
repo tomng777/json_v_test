@@ -112,7 +112,7 @@
           "source": "string"
         },
         "title": "string",
-        "caption": "string"",
+        "caption": "string",
         "is_graphic": "integer",
         "source": "string",
         "credits": "string",
