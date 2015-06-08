@@ -1,6 +1,6 @@
 {
   "type": "slideshow",
-  "action": "save",
+  "action": "string",
   "entry": {
     "ads_enabled": 1,
     "comments_enabled": 1,
