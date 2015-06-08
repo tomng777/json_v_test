@@ -47,31 +47,31 @@
     ],
     "next_slideshow": [
       {
-        "type": "drupal",
-        "value": 3404
+        "type": "string",
+        "value": "integer"
       }
     ],
     "related_carousel": [
       {
         "type": "drupal",
-        "value": 3404
+        "value": "integer"
       },
       {
-        "type": "drupal",
-        "value": 3404
+        "type": "string",
+        "value": "integer"
       },
       {
-        "type": "workbench",
-        "value": 12
+        "type": "string",
+        "value": "integer"
       }
     ],
     "slideshow_caption": "string",
     "summary": "string",
     "cover_image": {
-      "fid": "96866",
+      "fid": "string",
       "url": "string",
-      "width": "455",
-      "height": "256",
+      "width": "integer",
+      "height": "integer",
       "title": "string",
       "alt_text": "string",
       "caption": "string",
@@ -82,10 +82,10 @@
       "source": "string"
     },
     "main_image": {
-      "fid": "96858",
+      "fid": "string",
       "url": "string",
-      "width": "455",
-      "height": "256",
+      "width": "integer",
+      "height": "integer",
       "title": string",
       "alt_text": "string",
       "caption": "string",
@@ -98,10 +98,10 @@
     "slideshow_internal": [
       {
         "image": {
-          "fid": "96857",
+          "fid": "string",
           "url": "string",
-          "width": "455",
-          "height": "256",
+          "width": "integer",
+          "height": "integer",
           "title": "string",
           "alt_text": "string",
           "caption": "string",
@@ -113,7 +113,7 @@
         },
         "title": "string",
         "caption": "string"",
-        "is_graphic": "1",
+        "is_graphic": "integer",
         "source": "string",
         "credits": "string",
         "related": [
@@ -122,21 +122,21 @@
       }
     ],
     "series": [
-      "198"
+      "array"
     ],
     "section": [
-      "109"
+      "array"
     ],
     "topic": [
-      "146"
+      "array"
     ],
     "sub_topic": [
       
     ],
     "title": "string",
-    "nid": "4025",
+    "nid": "string",
     "type": "slideshow",
-    "revision_timestamp": 1431449253,
-    "hidden": 0
+    "revision_timestamp": "integer",
+    "hidden": "integer"
   }
 }
