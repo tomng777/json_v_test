@@ -1,9 +1,0 @@
-{
-  "$schema": "http://json-schema.org/draft-04/schema#",
-
-"title":  {"type": "string"},
-"byline":  {"type": "string"},
-"summary":  {"type": "string"},
-"brand":  {"type": "string"}
-
-  }
