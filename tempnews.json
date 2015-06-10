@@ -119,61 +119,73 @@
     {"id":"1",
     "schema":"ShowOnCover",
     "label":null,
-    "url":null},{
+    "url":null},
+    {
       "id":"isis-terror",
       "schema":"Storyline",
       "label":"ISIS Terror",
-      "url":null},{
-        "id":"news",
-        "schema":"PrimarySection",
-        "label":"News",
-        "url":"http://www.nbcnews.com/news/"},{
-          "id":"news",
-          "schema":"Section",
-          "label":"News",
-          "url":"http://www.nbcnews.com/news/"},{
-            "id":"military",
-            "schema":"PrimaryTopic",
-            "label":"Military",
-            "url":"http://www.nbcnews.com/news/military/"},{
-              "id":"military",
-              "schema":"Topic",
-              "label":"Military",
-              "url":"http://www.nbcnews.com/news/military/"},{
-                "id":"politics",
-                "schema":"LinkedSection",
-                "label":"Politics",
-                "url":"http://www.nbcnews.com/politics/"},{
-                  "id":"politics",
-                  "schema":"Section",
-                  "label":"Politics",
-                  "url":"http://www.nbcnews.com/politics/"},{
-                    "id":"us-news",
-                    "schema":"LinkedTopic",
-                    "label":"U.S. news",
-                    "url":"http://www.nbcnews.com/news/us-news/"},{
-                      "id":"us-news",
-                      "schema":"Topic",
-                      "label":"U.S. news",
-                      "url":"http://www.nbcnews.com/news/us-news/"},{
-                        "id":"white-house",
-                        "schema":"LinkedTopic",
-                        "label":"White House",
-                        "url":"http://www.nbcnews.com/politics/white-house/"},{
-                          "id":"white-house",
-                          "schema":"Topic",
-                          "label":"White House",
-                          "url":"http://www.nbcnews.com/politics/white-house/"},{
-                            "id":"world",
-                            "schema":"LinkedTopic",
-                            "label":"World",
-                            "url":"http://www.nbcnews.com/news/world/"},
-                            {"id":"world",
-                            "schema":"Topic",
-                            "label":"World",
-                            "url":"http://www.nbcnews.com/news/world/"},
-                            {"id":"372656",
-                            "schema":"OriginalUrl",
-                            "label":"http://www.nbcnews.com/storyline/isis-terror/u-s-considering-sending-more-military-trainers-iraq-n372656",
-                            "url":null}],
-                            "bylineIds":null}]}
+      "url":null},
+    {
+      "id":"news",
+      "schema":"PrimarySection",
+      "label":"News",
+      "url":"http://www.nbcnews.com/news/"},
+    {
+      "id":"news",
+      "schema":"Section",
+      "label":"News",
+      "url":"http://www.nbcnews.com/news/"},
+    {
+      "id":"military",
+      "schema":"PrimaryTopic",
+      "label":"Military",
+      "url":"http://www.nbcnews.com/news/military/"},
+    {
+      "id":"military",
+      "schema":"Topic",
+      "label":"Military",
+      "url":"http://www.nbcnews.com/news/military/"}
+    {
+      "id":"politics",
+      "schema":"LinkedSection",
+      "label":"Politics",
+      "url":"http://www.nbcnews.com/politics/"},
+    {
+     "id":"politics",
+     "schema":"Section",
+     "label":"Politics",
+     "url":"http://www.nbcnews.com/politics/"},
+    {
+     "id":"us-news",
+     "schema":"LinkedTopic",
+     "label":"U.S. news",
+     "url":"http://www.nbcnews.com/news/us-news/"},
+    {
+      "id":"us-news",
+      "schema":"Topic",
+      "label":"U.S. news",
+      "url":"http://www.nbcnews.com/news/us-news/"},
+    {
+      "id":"white-house",
+      "schema":"LinkedTopic",
+      "label":"White House",
+      "url":"http://www.nbcnews.com/politics/white-house/"},
+    {
+      "id":"white-house",
+      "schema":"Topic",
+      "label":"White House",
+      "url":"http://www.nbcnews.com/politics/white-house/"},
+    {
+      "id":"world",
+      "schema":"LinkedTopic",
+      "label":"World",
+      "url":"http://www.nbcnews.com/news/world/"},
+    { "id":"world",
+      "schema":"Topic",
+      "label":"World",
+      "url":"http://www.nbcnews.com/news/world/"},
+    { "id":"372656",
+      "schema":"OriginalUrl",
+      "label":"http://www.nbcnews.com/storyline/isis-terror/u-s-considering-sending-more-military-trainers-iraq-n372656",
+      "url":null}],
+      "bylineIds":null}]}
