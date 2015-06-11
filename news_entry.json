@@ -1,5 +1,6 @@
-
-{"id":"string",
+{
+"$schema": "http://json-schema.org/draft-04/schema#",  
+"id":"string",
 "title":"string",
 "updated":"integer",
 "entries":
