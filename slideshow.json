@@ -1,5 +1,5 @@
 {
-  "type": "slideshow",
+  "type": "object",
   "action": "string",
   "entry": {
     "ads_enabled": "integer",
