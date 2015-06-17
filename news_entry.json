@@ -29,9 +29,15 @@
         "news_keywords": "string",
         "standout_article": "string",
         "autoplay_video": "boolean",
-        "linked_sections": "array",
-        "linked_topics": "array",
-        "source": "array",
+        "linked_sections": [
+            "string"
+        ],
+        "linked_topics": [
+            "string"
+        ],
+        "source": [
+            "string"
+        ],
         "curated_list": "array",
         "content": "string",
         "summary": "string",
@@ -65,11 +71,5 @@
         "revision_timestamp": "integer",
         "byline": "string",
         "hidden": "boolean"
-    },
-    "required": [
-        "title",
-        "article_type",
-        "section",
-        "topic"
-    ]
+    }
 }
