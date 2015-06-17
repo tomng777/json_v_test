@@ -224,7 +224,7 @@
         }
     ],
       "required": [
-    "cover_Headline",
+    "title",
     "articleType",
     "section",
     "subSection"
